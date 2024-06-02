@@ -1,5 +1,5 @@
 # kickPredict
-A application for the popular bundesliga manager game "Kickbase". It is supposed to predict future points of players based on recent perfomances of the involved teams.
+A [Unfinished] application for the popular bundesliga manager game "Kickbase". It is supposed to predict future points of players based on recent perfomances of the involved teams.
 
 # Run Application
 Download Repository  
