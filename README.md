@@ -3,7 +3,9 @@ A [Unfinished] application for the popular bundesliga manager game "Kickbase". I
 
 # Run Application
 Download Repository  
-Install dependencies from requirements.txt  
+Download DataBase Browser for SQLite
+Install dependencies from requirements.txt
+Add Path to DB Browser in GUI.py
 Start Application by running GUI.py  
 
 # Options
